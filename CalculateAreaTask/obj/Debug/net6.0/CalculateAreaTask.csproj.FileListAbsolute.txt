@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\bin\Debug\net6.0\CalculateAreaTask.exe
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\bin\Debug\net6.0\CalculateAreaTask.deps.json
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\bin\Debug\net6.0\CalculateAreaTask.runtimeconfig.json
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\bin\Debug\net6.0\CalculateAreaTask.dll
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\bin\Debug\net6.0\CalculateAreaTask.pdb
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.dll
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\refint\CalculateAreaTask.dll
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.pdb
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\CalculateAreaTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\CalculateAreaTask\CalculateAreaTask\obj\Debug\net6.0\ref\CalculateAreaTask.dll
